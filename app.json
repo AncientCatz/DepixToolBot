@@ -1,0 +1,11 @@
+{
+  "name": "DepixToolBot for Telegram",
+  "description": "Depix as self-hosted solution with the UI of messenger.",
+  "keywords": [
+    "depix",
+    "bot",
+    "telegram"
+  ],
+  "website": "https://github.com/AncientCatz/DepixToolBot",
+  "logo": "https://img.icons8.com/nolan/96/heat-map.png"
+}
